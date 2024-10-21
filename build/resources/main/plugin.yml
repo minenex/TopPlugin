@@ -1,0 +1,8 @@
+name: TopPlugin
+version: '${version}'
+main: org.topplugin.TopPlugin
+api-version: '1.16'
+commands:
+  login:
+    description: Vot etot login
+    usage: /login <code>
